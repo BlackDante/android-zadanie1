@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zadanie_1</string>
+    <string name="text_view">Hello World!</string>
+    <string name="text_field_placeholder">Wpisz jakiś tekst</string>
+    <string name="switch_label">Duże litery</string>
+    <string name="radio_button_bold">Pogrubienie</string>
+    <string name="radio_button_normal">Normalny</string>
+    <string name="radio_button_light">Italic</string>
+</resources>
